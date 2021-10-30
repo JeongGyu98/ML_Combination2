@@ -9,16 +9,16 @@ Description :
 - Create a program structure that will make it possible to automatically run different combinations.
 
 Dataset: 
-california housing price dataset from kaggle.
-https://www.kaggle.com/camnugent/california-housing-prices
-10 columns(features)
+- california housing price dataset from kaggle.
+- https://www.kaggle.com/camnugent/california-housing-prices
+- 10 columns(features)
 
 
 Clustering algorithms:
-K-means, EM(GMM), CLARANS, DBSCAN, Spectral 
+- K-means, EM(GMM), CLARANS, DBSCAN, Spectral 
 
 Scaler:
-StandardScaler(), MinMaxScaler(), MaxAbsScaler(), RobustScaler()
+- StandardScaler(), MinMaxScaler(), MaxAbsScaler(), RobustScaler()
 
 Encoder: 
-OrdinalEncoder(), OneHotEncoder(), LabelEncoder()
+- OrdinalEncoder(), OneHotEncoder(), LabelEncoder()
