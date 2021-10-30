@@ -1,6 +1,10 @@
 Gachon Univ. dept. of SW 
+
 [21-2] Machine Learining 
-ML_PHW1 #201735821 김정규
+
+ML_PHW2 
+
+201735821 김정규
 
 Description : 
 - Find the best combination of scaler, encoder, clustering algorithm 
